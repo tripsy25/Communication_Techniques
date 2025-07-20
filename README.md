@@ -11,5 +11,12 @@ ShortPolling -> Req sent by client in a regular interval of time even though dat
 Web Socket:
 npm run start
 
-Full Duplex connection
+Full Duplex connection (Web Socket)
 <img width="1873" height="984" alt="image" src="https://github.com/user-attachments/assets/f09869a5-b555-4c1a-a7d1-9fa77c2c38a7" />
+
+Server Side Events(SSE):
+npm run start
+
+<img width="1878" height="871" alt="image" src="https://github.com/user-attachments/assets/657b2c02-f168-4573-8453-b134e6c47fa1" />
+
+
